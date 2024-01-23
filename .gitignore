@@ -1,0 +1,20 @@
+# meus arquivos
+.venv
+.vscode
+# descomentar essas linhas em projeto real
+# instance/
+# .flaskenv
+# .env
+# *.log
+
+
+# flask
+.idea/
+__pycache__/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+docs/_build/
+dist/
+.pytest_cache/
